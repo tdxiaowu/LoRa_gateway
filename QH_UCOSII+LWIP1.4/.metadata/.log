@@ -1,0 +1,1659 @@
+!SESSION 2019-01-24 15:46:33.058 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.7.0_151
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.cpp.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.cpp.product
+
+!ENTRY org.eclipse.cdt.core 1 0 2019-01-24 15:49:00.420
+!MESSAGE Indexed 'lora_network_platform' (0 sources, 0 headers) in 0.001 sec: 0 declarations; 0 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.jlink 4 1 2019-01-24 16:44:18.938
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.jlink 4 1 2019-01-24 16:44:19.117
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY org.eclipse.jface 2 0 2019-01-24 16:44:56.849
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2019-01-24 16:44:56.849
+!MESSAGE A conflict occurred for CTRL+D:
+Binding(CTRL+D,
+	ParameterizedCommand(Command(org.eclipse.debug.ui.commands.eof,EOF,
+		Send end of file,
+		Category(org.eclipse.debug.ui.category.run,Run/Debug,Run/Debug command category,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@5d805b3c,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.debug.ui.console,,,system)
+Binding(CTRL+D,
+	ParameterizedCommand(Command(org.eclipse.ui.edit.text.delete.line,Delete Line,
+		Delete a line of text,
+		Category(org.eclipse.ui.category.textEditor,Text Editing,Text Editing Commands,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@15e5f019,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.jlink 4 1 2019-01-24 16:47:31.250
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.jlink 4 1 2019-01-24 16:47:31.276
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.jlink 4 1 2019-01-24 16:50:44.350
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.jlink 4 1 2019-01-24 16:50:44.376
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.jlink 4 1 2019-01-24 16:56:48.883
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.jlink 4 1 2019-01-24 16:56:48.908
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.jlink 4 1 2019-01-24 17:00:52.583
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.jlink 4 1 2019-01-24 17:00:52.608
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.jlink 4 1 2019-01-24 17:02:54.121
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.jlink 4 1 2019-01-24 17:02:54.164
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.jlink 4 1 2019-01-24 19:29:21.327
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.jlink 4 1 2019-01-24 19:29:21.353
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.jlink 4 1 2019-01-24 19:33:04.565
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.jlink 4 1 2019-01-24 19:33:04.591
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag 4 0 2019-01-24 19:37:57.172
+!MESSAGE Debug session 'lora_network_platform Debug' already started. Terminate the first one before restarting.
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.jlink 4 1 2019-01-24 19:38:07.593
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.jlink 4 1 2019-01-24 19:38:07.621
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.jlink 4 1 2019-01-24 19:45:14.035
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.jlink 4 1 2019-01-24 19:45:14.062
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+!SESSION 2019-01-28 11:38:16.591 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.7.0_151
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.cpp.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.cpp.product
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-01-28 11:47:00.181
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-01-28 11:47:00.379
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-01-28 11:50:05.642
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-01-28 11:50:05.667
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-01-28 11:51:53.825
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-01-28 11:51:53.849
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+!SESSION 2019-01-28 14:03:01.500 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.7.0_151
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.cpp.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.cpp.product
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-01-28 14:46:57.521
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-01-28 14:46:57.559
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+!SESSION 2019-03-04 09:24:11.166 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.7.0_151
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.cpp.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.cpp.product
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-04 14:44:25.162
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-04 14:44:25.339
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-04 14:51:19.623
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-04 14:51:19.651
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-04 15:00:33.031
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-04 15:00:33.058
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-04 15:00:39.729
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-04 15:00:39.755
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-04 15:09:56.192
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-04 15:09:56.219
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-04 15:14:49.943
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-04 15:14:49.973
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-04 15:22:44.314
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-04 15:22:44.344
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-04 15:23:16.327
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-04 15:23:16.355
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+!SESSION 2019-03-04 15:44:29.215 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.7.0_151
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.cpp.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.cpp.product
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-04 15:46:22.794
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-04 15:46:22.831
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-04 15:50:40.069
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-04 15:50:40.094
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-04 15:51:58.816
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-04 15:51:58.850
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-04 15:58:37.795
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-04 15:58:37.821
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-04 16:03:16.915
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-04 16:03:16.941
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-04 16:04:11.970
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-04 16:04:11.995
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-04 16:07:54.836
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-04 16:07:54.864
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+!SESSION 2019-03-04 16:24:09.919 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.7.0_151
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.cpp.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.cpp.product
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-04 16:32:49.272
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-04 16:32:49.309
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+!SESSION 2019-03-04 16:41:23.094 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.7.0_151
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.cpp.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.cpp.product
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-04 16:48:09.914
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-04 16:48:09.957
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-04 16:49:50.152
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-04 16:49:50.180
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-04 16:51:07.819
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-04 16:51:07.845
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-04 16:52:32.210
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-04 16:52:32.237
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-04 16:55:10.091
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-04 16:55:10.118
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+!SESSION 2019-03-04 16:59:32.859 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.7.0_151
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.cpp.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.cpp.product
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-04 17:02:21.198
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-04 17:02:21.238
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+!SESSION 2019-03-05 10:04:17.551 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.7.0_151
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.cpp.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.cpp.product
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-05 10:37:08.800
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-05 10:37:08.993
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 5012 2019-03-05 10:37:09.242
+!MESSAGE Error in final launch sequence
+!STACK 1
+org.eclipse.core.runtime.CoreException: Connection is shut down
+	at org.eclipse.cdt.dsf.concurrent.Query.get(Query.java:115)
+	at ilg.gnuarmeclipse.debug.gdbjtag.openocd.dsf.LaunchConfigurationDelegate.launchDebugSession(LaunchConfigurationDelegate.java:435)
+	at ilg.gnuarmeclipse.debug.gdbjtag.openocd.dsf.LaunchConfigurationDelegate.launchDebugger(LaunchConfigurationDelegate.java:171)
+	at ilg.gnuarmeclipse.debug.gdbjtag.openocd.dsf.LaunchConfigurationDelegate.launch(LaunchConfigurationDelegate.java:147)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:885)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:739)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1039)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1256)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SUBENTRY 1 org.eclipse.cdt.dsf.gdb 4 10001 2019-03-05 10:37:09.253
+!MESSAGE Connection is shut down
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-05 10:39:15.674
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-05 10:39:15.700
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-05 10:45:24.634
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-05 10:45:24.665
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.packs.core 4 1 2019-03-05 11:12:54.249
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.packs.core 4 1 2019-03-05 11:12:54.278
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.packs.core 4 1 2019-03-05 11:52:16.388
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.packs.core 4 1 2019-03-05 11:52:16.413
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.packs.core 4 1 2019-03-05 11:52:22.608
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.packs.core 4 1 2019-03-05 11:52:22.635
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.packs.core 4 1 2019-03-05 12:47:16.966
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.packs.core 4 1 2019-03-05 12:47:16.993
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.packs.core 4 1 2019-03-05 14:39:57.472
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.packs.core 4 1 2019-03-05 14:39:57.498
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY org.eclipse.jface 2 0 2019-03-05 14:40:15.022
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2019-03-05 14:40:15.022
+!MESSAGE A conflict occurred for CTRL+D:
+Binding(CTRL+D,
+	ParameterizedCommand(Command(org.eclipse.debug.ui.commands.eof,EOF,
+		Send end of file,
+		Category(org.eclipse.debug.ui.category.run,Run/Debug,Run/Debug command category,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@fb56d1e,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.debug.ui.console,,,system)
+Binding(CTRL+D,
+	ParameterizedCommand(Command(org.eclipse.ui.edit.text.delete.line,Delete Line,
+		Delete a line of text,
+		Category(org.eclipse.ui.category.textEditor,Text Editing,Text Editing Commands,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@4031214f,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
+
+!ENTRY ilg.gnuarmeclipse.packs.core 4 1 2019-03-05 14:45:36.845
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.packs.core 4 1 2019-03-05 14:45:36.872
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.packs.core 4 1 2019-03-05 14:48:01.119
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.packs.core 4 1 2019-03-05 14:48:01.146
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY org.eclipse.ui.browser 2 0 2019-03-05 14:49:17.514
+!MESSAGE Internal browser is not available: No more handles [Unknown Mozilla path (MOZILLA_FIVE_HOME not set)]
+
+!ENTRY ilg.gnuarmeclipse.packs.core 4 1 2019-03-05 14:56:05.668
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.packs.core 4 1 2019-03-05 14:56:05.694
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+!SESSION 2019-03-05 15:23:03.479 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.7.0_151
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.cpp.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.cpp.product
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-05 15:26:17.686
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-05 15:26:17.724
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-05 15:40:16.572
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-05 15:40:16.600
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-05 15:44:55.367
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-05 15:44:55.394
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY org.eclipse.jface 2 0 2019-03-05 15:45:51.685
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2019-03-05 15:45:51.685
+!MESSAGE A conflict occurred for CTRL+D:
+Binding(CTRL+D,
+	ParameterizedCommand(Command(org.eclipse.debug.ui.commands.eof,EOF,
+		Send end of file,
+		Category(org.eclipse.debug.ui.category.run,Run/Debug,Run/Debug command category,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@6772f729,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.debug.ui.console,,,system)
+Binding(CTRL+D,
+	ParameterizedCommand(Command(org.eclipse.ui.edit.text.delete.line,Delete Line,
+		Delete a line of text,
+		Category(org.eclipse.ui.category.textEditor,Text Editing,Text Editing Commands,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@2cc0d9ce,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
+!SESSION 2019-03-07 13:32:08.770 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.7.0_151
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.cpp.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.cpp.product
+
+!ENTRY org.eclipse.jface 2 0 2019-03-07 14:21:00.198
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2019-03-07 14:21:00.198
+!MESSAGE A conflict occurred for ALT+ARROW_RIGHT:
+Binding(ALT+ARROW_RIGHT,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.hover.forwardMacroExpansion,Forward,
+		Steps forward in macro expansions,
+		Category(org.eclipse.cdt.ui.category.source,Source,Source commands,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@4e0f6b76,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.macroExpansionHoverScope,,,system)
+Binding(ALT+ARROW_RIGHT,
+	ParameterizedCommand(Command(org.eclipse.ui.navigate.forwardHistory,Forward History,
+		Move forward in the editor navigation history,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@56583803,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2019-03-07 14:21:00.198
+!MESSAGE A conflict occurred for ALT+ARROW_LEFT:
+Binding(ALT+ARROW_LEFT,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.hover.backwardMacroExpansion,Back,
+		Steps backward in macro expansions,
+		Category(org.eclipse.cdt.ui.category.source,Source,Source commands,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@39c5793e,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.macroExpansionHoverScope,,,system)
+Binding(ALT+ARROW_LEFT,
+	ParameterizedCommand(Command(org.eclipse.ui.navigate.backwardHistory,Backward History,
+		Move backward in the editor navigation history,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@539af313,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.jface 2 0 2019-03-07 14:21:18.594
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2019-03-07 14:21:18.594
+!MESSAGE A conflict occurred for F3:
+Binding(F3,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.edit.opendecl,Open Declaration,
+		Opens an editor on the selected element's declaration(s),
+		Category(org.eclipse.cdt.ui.category.source,Source,Source commands,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@4d8de1b1,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cViewScope,,,system)
+Binding(F3,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.edit.opendecl,Open Declaration,
+		Opens an editor on the selected element's declaration(s),
+		Category(org.eclipse.cdt.ui.category.source,Source,Source commands,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@4d8de1b1,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.macroExpansionHoverScope,,,system)
+
+!ENTRY org.eclipse.ui 4 4 2019-03-07 16:45:30.631
+!MESSAGE Conflicting handlers for org.eclipse.cdt.ui.hover.backwardMacroExpansion: {org.eclipse.cdt.internal.ui.text.c.hover.CMacroExpansionExplorationControl$3@26e8c7cc} vs {org.eclipse.cdt.internal.ui.text.c.hover.CMacroExpansionExplorationControl$3@3327d679}
+
+!ENTRY org.eclipse.ui 4 4 2019-03-07 16:45:30.632
+!MESSAGE Conflicting handlers for org.eclipse.cdt.ui.hover.forwardMacroExpansion: {org.eclipse.cdt.internal.ui.text.c.hover.CMacroExpansionExplorationControl$4@7c71bc2b} vs {org.eclipse.cdt.internal.ui.text.c.hover.CMacroExpansionExplorationControl$4@5b1c87f4}
+
+!ENTRY org.eclipse.ui 4 4 2019-03-07 16:45:30.632
+!MESSAGE Conflicting handlers for org.eclipse.cdt.ui.edit.opendecl: {org.eclipse.cdt.internal.ui.text.c.hover.CMacroExpansionExplorationControl$5@5acb519e} vs {org.eclipse.cdt.internal.ui.text.c.hover.CMacroExpansionExplorationControl$5@5a5b8aa3}
+
+!ENTRY org.eclipse.ui 4 4 2019-03-07 16:45:40.229
+!MESSAGE Conflicting handlers for org.eclipse.cdt.ui.hover.backwardMacroExpansion: {org.eclipse.cdt.internal.ui.text.c.hover.CMacroExpansionExplorationControl$3@26e8c7cc} vs {org.eclipse.cdt.internal.ui.text.c.hover.CMacroExpansionExplorationControl$3@3327d679}
+
+!ENTRY org.eclipse.ui 4 4 2019-03-07 16:45:40.229
+!MESSAGE Conflicting handlers for org.eclipse.cdt.ui.hover.forwardMacroExpansion: {org.eclipse.cdt.internal.ui.text.c.hover.CMacroExpansionExplorationControl$4@7c71bc2b} vs {org.eclipse.cdt.internal.ui.text.c.hover.CMacroExpansionExplorationControl$4@5b1c87f4}
+
+!ENTRY org.eclipse.ui 4 4 2019-03-07 16:45:49.888
+!MESSAGE Conflicting handlers for org.eclipse.cdt.ui.hover.backwardMacroExpansion: {org.eclipse.cdt.internal.ui.text.c.hover.CMacroExpansionExplorationControl$3@14e4e133} vs {org.eclipse.cdt.internal.ui.text.c.hover.CMacroExpansionExplorationControl$3@3327d679}
+
+!ENTRY org.eclipse.ui 4 4 2019-03-07 16:45:49.888
+!MESSAGE Conflicting handlers for org.eclipse.cdt.ui.hover.forwardMacroExpansion: {org.eclipse.cdt.internal.ui.text.c.hover.CMacroExpansionExplorationControl$4@7c71bc2b} vs {org.eclipse.cdt.internal.ui.text.c.hover.CMacroExpansionExplorationControl$4@78bf9a0b}
+
+!ENTRY org.eclipse.ui 4 4 2019-03-07 16:45:49.888
+!MESSAGE Conflicting handlers for org.eclipse.cdt.ui.edit.opendecl: {org.eclipse.cdt.internal.ui.text.c.hover.CMacroExpansionExplorationControl$5@5a5b8aa3} vs {org.eclipse.cdt.internal.ui.text.c.hover.CMacroExpansionExplorationControl$5@2f02efd8}
+
+!ENTRY org.eclipse.ui 4 4 2019-03-07 16:45:53.070
+!MESSAGE Conflicting handlers for org.eclipse.cdt.ui.hover.backwardMacroExpansion: {org.eclipse.cdt.internal.ui.text.c.hover.CMacroExpansionExplorationControl$3@14e4e133} vs {org.eclipse.cdt.internal.ui.text.c.hover.CMacroExpansionExplorationControl$3@3327d679}
+
+!ENTRY org.eclipse.ui 4 4 2019-03-07 16:45:53.070
+!MESSAGE Conflicting handlers for org.eclipse.cdt.ui.hover.forwardMacroExpansion: {org.eclipse.cdt.internal.ui.text.c.hover.CMacroExpansionExplorationControl$4@7c71bc2b} vs {org.eclipse.cdt.internal.ui.text.c.hover.CMacroExpansionExplorationControl$4@78bf9a0b}
+!SESSION 2019-03-08 15:22:08.791 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.7.0_151
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.cpp.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.cpp.product
+
+!ENTRY org.eclipse.jface 2 0 2019-03-08 15:49:22.667
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2019-03-08 15:49:22.667
+!MESSAGE A conflict occurred for ALT+ARROW_LEFT:
+Binding(ALT+ARROW_LEFT,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.hover.backwardMacroExpansion,Back,
+		Steps backward in macro expansions,
+		Category(org.eclipse.cdt.ui.category.source,Source,Source commands,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@3794cab2,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.macroExpansionHoverScope,,,system)
+Binding(ALT+ARROW_LEFT,
+	ParameterizedCommand(Command(org.eclipse.ui.navigate.backwardHistory,Backward History,
+		Move backward in the editor navigation history,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@98788a0,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2019-03-08 15:49:22.667
+!MESSAGE A conflict occurred for ALT+ARROW_RIGHT:
+Binding(ALT+ARROW_RIGHT,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.hover.forwardMacroExpansion,Forward,
+		Steps forward in macro expansions,
+		Category(org.eclipse.cdt.ui.category.source,Source,Source commands,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@211ac543,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.macroExpansionHoverScope,,,system)
+Binding(ALT+ARROW_RIGHT,
+	ParameterizedCommand(Command(org.eclipse.ui.navigate.forwardHistory,Forward History,
+		Move forward in the editor navigation history,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@648cc2af,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2019-03-08 15:49:22.667
+!MESSAGE A conflict occurred for F3:
+Binding(F3,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.edit.opendecl,Open Declaration,
+		Opens an editor on the selected element's declaration(s),
+		Category(org.eclipse.cdt.ui.category.source,Source,Source commands,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@547dde04,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cEditorScope,,,system)
+Binding(F3,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.edit.opendecl,Open Declaration,
+		Opens an editor on the selected element's declaration(s),
+		Category(org.eclipse.cdt.ui.category.source,Source,Source commands,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@547dde04,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.macroExpansionHoverScope,,,system)
+!SESSION 2019-03-11 10:17:22.198 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.7.0_151
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.cpp.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.cpp.product
+
+!ENTRY org.eclipse.cdt.core 1 0 2019-03-11 16:04:50.682
+!MESSAGE Indexed 'lora_network_platform' (107 sources, 166 headers) in 1.55 sec: 11,091 declarations; 58,016 references; 0 unresolved inclusions; 0 syntax errors; 63 unresolved names (0.091%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2019-03-11 16:05:41.239
+!MESSAGE Indexed 'lora_network_platform' (107 sources, 166 headers) in 1.22 sec: 11,091 declarations; 58,016 references; 0 unresolved inclusions; 0 syntax errors; 63 unresolved names (0.091%)
+!SESSION 2019-03-11 17:30:19.707 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.7.0_151
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.cpp.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.cpp.product
+
+!ENTRY org.eclipse.cdt.core 1 0 2019-03-11 17:33:30.562
+!MESSAGE Indexed 'lora_network_platform' (107 sources, 166 headers) in 3.16 sec: 11,364 declarations; 62,008 references; 1 unresolved inclusions; 0 syntax errors; 63 unresolved names (0.086%)
+!SESSION 2019-03-14 09:37:04.860 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.7.0_151
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.cpp.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.cpp.product
+
+!ENTRY org.eclipse.jface 2 0 2019-03-14 11:18:40.163
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2019-03-14 11:18:40.163
+!MESSAGE A conflict occurred for ALT+ARROW_LEFT:
+Binding(ALT+ARROW_LEFT,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.hover.backwardMacroExpansion,Back,
+		Steps backward in macro expansions,
+		Category(org.eclipse.cdt.ui.category.source,Source,Source commands,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@7259bd2d,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.macroExpansionHoverScope,,,system)
+Binding(ALT+ARROW_LEFT,
+	ParameterizedCommand(Command(org.eclipse.ui.navigate.backwardHistory,Backward History,
+		Move backward in the editor navigation history,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@61931001,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2019-03-14 11:18:40.163
+!MESSAGE A conflict occurred for ALT+ARROW_RIGHT:
+Binding(ALT+ARROW_RIGHT,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.hover.forwardMacroExpansion,Forward,
+		Steps forward in macro expansions,
+		Category(org.eclipse.cdt.ui.category.source,Source,Source commands,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@7dffe3b2,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.macroExpansionHoverScope,,,system)
+Binding(ALT+ARROW_RIGHT,
+	ParameterizedCommand(Command(org.eclipse.ui.navigate.forwardHistory,Forward History,
+		Move forward in the editor navigation history,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@2abdfbbe,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2019-03-14 11:18:40.163
+!MESSAGE A conflict occurred for F3:
+Binding(F3,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.edit.opendecl,Open Declaration,
+		Opens an editor on the selected element's declaration(s),
+		Category(org.eclipse.cdt.ui.category.source,Source,Source commands,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@48f61a81,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cEditorScope,,,system)
+Binding(F3,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.edit.opendecl,Open Declaration,
+		Opens an editor on the selected element's declaration(s),
+		Category(org.eclipse.cdt.ui.category.source,Source,Source commands,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@48f61a81,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.macroExpansionHoverScope,,,system)
+
+!ENTRY org.eclipse.cdt.dsf.gdb 4 104 2019-03-14 11:25:39.731
+!MESSAGE Program file does not exist
+!STACK 0
+java.io.FileNotFoundException: /home/zm/workspace/Text Workspace/QH_UCOSII+LWIP1.4/lora_network_platform/Debug/lora_network_platform.elf not found
+	at org.eclipse.cdt.dsf.gdb.launching.LaunchUtils.verifyProgramPath(LaunchUtils.java:131)
+	at org.eclipse.cdt.dsf.gdb.launching.GdbLaunchDelegate.checkBinaryDetails(GdbLaunchDelegate.java:298)
+	at ilg.gnuarmeclipse.debug.gdbjtag.openocd.dsf.LaunchConfigurationDelegate.checkBinaryDetails(LaunchConfigurationDelegate.java:487)
+	at ilg.gnuarmeclipse.debug.gdbjtag.openocd.dsf.LaunchConfigurationDelegate.launchDebugSession(LaunchConfigurationDelegate.java:219)
+	at ilg.gnuarmeclipse.debug.gdbjtag.openocd.dsf.LaunchConfigurationDelegate.launchDebugger(LaunchConfigurationDelegate.java:171)
+	at ilg.gnuarmeclipse.debug.gdbjtag.openocd.dsf.LaunchConfigurationDelegate.launch(LaunchConfigurationDelegate.java:147)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:885)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:739)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1039)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1256)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SUBENTRY 1 org.eclipse.cdt.dsf.gdb 4 104 2019-03-14 11:25:39.743
+!MESSAGE /home/zm/workspace/Text Workspace/QH_UCOSII+LWIP1.4/lora_network_platform/Debug/lora_network_platform.elf not found
+!STACK 0
+java.io.FileNotFoundException: /home/zm/workspace/Text Workspace/QH_UCOSII+LWIP1.4/lora_network_platform/Debug/lora_network_platform.elf not found
+	at org.eclipse.cdt.dsf.gdb.launching.LaunchUtils.verifyProgramPath(LaunchUtils.java:131)
+	at org.eclipse.cdt.dsf.gdb.launching.GdbLaunchDelegate.checkBinaryDetails(GdbLaunchDelegate.java:298)
+	at ilg.gnuarmeclipse.debug.gdbjtag.openocd.dsf.LaunchConfigurationDelegate.checkBinaryDetails(LaunchConfigurationDelegate.java:487)
+	at ilg.gnuarmeclipse.debug.gdbjtag.openocd.dsf.LaunchConfigurationDelegate.launchDebugSession(LaunchConfigurationDelegate.java:219)
+	at ilg.gnuarmeclipse.debug.gdbjtag.openocd.dsf.LaunchConfigurationDelegate.launchDebugger(LaunchConfigurationDelegate.java:171)
+	at ilg.gnuarmeclipse.debug.gdbjtag.openocd.dsf.LaunchConfigurationDelegate.launch(LaunchConfigurationDelegate.java:147)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:885)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:739)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1039)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1256)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-14 11:29:54.693
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-14 11:29:54.810
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-14 14:26:20.391
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-14 14:26:20.419
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-14 14:29:38.649
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-14 14:29:38.677
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-14 14:34:27.926
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-14 14:34:27.956
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-14 14:42:20.240
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-14 14:42:20.269
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-14 14:45:26.928
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-14 14:45:26.955
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-14 14:46:39.897
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-14 14:46:39.922
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-14 14:49:37.390
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-14 14:49:37.418
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-14 14:51:14.200
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-14 14:51:14.231
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-14 15:00:54.258
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-14 15:00:54.284
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-14 15:11:36.742
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-14 15:11:36.772
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-14 15:25:19.322
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-14 15:25:19.350
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-14 15:29:01.520
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-14 15:29:01.546
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-14 16:09:40.109
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-14 16:09:40.138
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-14 16:11:11.692
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-14 16:11:11.720
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-14 16:16:14.229
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-14 16:16:14.256
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-14 16:29:42.527
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-14 16:29:42.554
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+!SESSION 2019-03-15 18:21:24.457 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.7.0_151
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.cpp.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.cpp.product
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-15 18:49:47.992
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-15 18:49:48.156
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-15 18:53:46.683
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-15 18:53:46.708
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-15 19:00:05.388
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-15 19:00:05.414
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-15 19:03:10.977
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-15 19:03:11.004
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+!SESSION 2019-03-15 19:07:58.791 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.7.0_151
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.cpp.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.cpp.product
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-15 19:09:23.305
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-15 19:09:23.344
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-15 19:19:00.109
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-15 19:19:00.134
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-15 19:22:35.045
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-15 19:22:35.073
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-15 19:26:25.314
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-15 19:26:25.339
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-15 19:28:53.692
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-15 19:28:53.717
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-15 19:33:58.330
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-15 19:33:58.360
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-15 19:53:21.521
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-15 19:53:21.546
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+!SESSION 2019-03-16 15:10:12.117 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.7.0_151
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.cpp.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.cpp.product
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-16 16:23:45.971
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-16 16:23:46.157
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-16 16:27:14.483
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-16 16:27:14.509
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-16 16:36:49.020
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-16 16:36:49.050
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+!SESSION 2019-03-16 17:08:32.729 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.7.0_151
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.cpp.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.cpp.product
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-16 17:09:24.186
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-16 17:09:24.225
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-16 17:10:35.717
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-16 17:10:35.745
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-16 17:20:31.001
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-16 17:20:31.029
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-16 17:22:03.299
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-16 17:22:03.327
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-16 17:24:45.554
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-16 17:24:45.584
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-16 17:26:07.172
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-16 17:26:07.200
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-16 17:26:37.538
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-16 17:26:37.568
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-16 17:34:33.907
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-16 17:34:33.936
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-16 17:38:27.769
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-16 17:38:27.796
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-16 17:43:28.098
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-16 17:43:28.124
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-16 17:46:25.953
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-16 17:46:25.978
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-16 17:51:20.459
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-16 17:51:20.486
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-16 17:55:35.530
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-16 17:55:35.556
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-16 18:14:47.659
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-16 18:14:47.686
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-16 18:18:33.771
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-16 18:18:33.801
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY org.eclipse.cdt.dsf 4 10005 2019-03-16 18:19:02.136
+!MESSAGE Request for monitor: 'RequestMonitor (org.eclipse.cdt.dsf.mi.service.MIRunControl$9@55085aa4): Status ERROR: org.eclipse.cdt.dsf.gdb code=10001 Context cannot be suspended. null' resulted in an error.
+!SUBENTRY 1 org.eclipse.cdt.dsf.gdb 4 10001 2019-03-16 18:19:02.137
+!MESSAGE Context cannot be suspended.
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-16 18:23:15.779
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-16 18:23:15.806
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-16 18:39:45.750
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-16 18:39:45.778
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.debug.core 4 1 2019-03-16 18:40:41.557
+!MESSAGE There are no peripheral descriptions available, assign a device to the project.
+!SESSION 2019-03-18 10:01:59.554 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.7.0_151
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.cpp.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.cpp.product
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-18 10:04:07.460
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-18 10:04:07.513
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-18 11:26:24.373
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-18 11:26:24.401
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.debug.core 4 1 2019-03-18 11:28:08.285
+!MESSAGE There are no peripheral descriptions available, assign a device to the project.
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-18 15:02:27.214
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-18 15:02:27.240
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-18 15:16:09.639
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-18 15:16:09.665
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-18 15:23:17.000
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-18 15:23:17.027
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-18 15:27:54.145
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-18 15:27:54.173
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-18 15:35:33.879
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-18 15:35:33.907
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-18 15:37:25.365
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-18 15:37:25.392
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-18 15:38:15.031
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-18 15:38:15.060
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-18 15:40:17.876
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-18 15:40:17.908
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY org.eclipse.jface 2 0 2019-03-18 15:41:50.859
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2019-03-18 15:41:50.859
+!MESSAGE A conflict occurred for CTRL+D:
+Binding(CTRL+D,
+	ParameterizedCommand(Command(org.eclipse.debug.ui.commands.eof,EOF,
+		Send end of file,
+		Category(org.eclipse.debug.ui.category.run,Run/Debug,Run/Debug command category,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@2e987f36,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.debug.ui.console,,,system)
+Binding(CTRL+D,
+	ParameterizedCommand(Command(org.eclipse.ui.edit.text.delete.line,Delete Line,
+		Delete a line of text,
+		Category(org.eclipse.ui.category.textEditor,Text Editing,Text Editing Commands,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@7c313b85,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.textEditorScope,,,system)
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-18 15:42:53.390
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-18 15:42:53.417
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-18 15:45:38.560
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-18 15:45:38.588
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-18 15:52:05.148
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-18 15:52:05.174
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-18 16:05:25.157
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-18 16:05:25.184
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-18 16:06:26.231
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-18 16:06:26.257
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-18 16:21:30.024
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-18 16:21:30.051
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-18 16:24:50.911
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-18 16:24:50.937
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY org.eclipse.cdt.dsf.gdb 4 104 2019-03-18 16:28:26.185
+!MESSAGE Program file does not exist
+!STACK 0
+java.io.FileNotFoundException: /home/zm/workspace/Text Workspace/QH_UCOSII+LWIP1.4/lora_network_platform/Debug/lora_network_platform.elf not found
+	at org.eclipse.cdt.dsf.gdb.launching.LaunchUtils.verifyProgramPath(LaunchUtils.java:131)
+	at org.eclipse.cdt.dsf.gdb.launching.GdbLaunchDelegate.checkBinaryDetails(GdbLaunchDelegate.java:298)
+	at ilg.gnuarmeclipse.debug.gdbjtag.openocd.dsf.LaunchConfigurationDelegate.checkBinaryDetails(LaunchConfigurationDelegate.java:487)
+	at ilg.gnuarmeclipse.debug.gdbjtag.openocd.dsf.LaunchConfigurationDelegate.launchDebugSession(LaunchConfigurationDelegate.java:219)
+	at ilg.gnuarmeclipse.debug.gdbjtag.openocd.dsf.LaunchConfigurationDelegate.launchDebugger(LaunchConfigurationDelegate.java:171)
+	at ilg.gnuarmeclipse.debug.gdbjtag.openocd.dsf.LaunchConfigurationDelegate.launch(LaunchConfigurationDelegate.java:147)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:885)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:739)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1039)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1256)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+!SUBENTRY 1 org.eclipse.cdt.dsf.gdb 4 104 2019-03-18 16:28:26.196
+!MESSAGE /home/zm/workspace/Text Workspace/QH_UCOSII+LWIP1.4/lora_network_platform/Debug/lora_network_platform.elf not found
+!STACK 0
+java.io.FileNotFoundException: /home/zm/workspace/Text Workspace/QH_UCOSII+LWIP1.4/lora_network_platform/Debug/lora_network_platform.elf not found
+	at org.eclipse.cdt.dsf.gdb.launching.LaunchUtils.verifyProgramPath(LaunchUtils.java:131)
+	at org.eclipse.cdt.dsf.gdb.launching.GdbLaunchDelegate.checkBinaryDetails(GdbLaunchDelegate.java:298)
+	at ilg.gnuarmeclipse.debug.gdbjtag.openocd.dsf.LaunchConfigurationDelegate.checkBinaryDetails(LaunchConfigurationDelegate.java:487)
+	at ilg.gnuarmeclipse.debug.gdbjtag.openocd.dsf.LaunchConfigurationDelegate.launchDebugSession(LaunchConfigurationDelegate.java:219)
+	at ilg.gnuarmeclipse.debug.gdbjtag.openocd.dsf.LaunchConfigurationDelegate.launchDebugger(LaunchConfigurationDelegate.java:171)
+	at ilg.gnuarmeclipse.debug.gdbjtag.openocd.dsf.LaunchConfigurationDelegate.launch(LaunchConfigurationDelegate.java:147)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:885)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:739)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:1039)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$8.run(DebugUIPlugin.java:1256)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-18 16:47:48.103
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-18 16:47:48.134
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-18 16:49:03.557
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-18 16:49:03.584
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-18 16:53:28.537
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-18 16:53:28.566
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-18 16:55:33.218
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-18 16:55:33.245
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-18 16:58:13.843
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-18 16:58:13.871
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-18 17:17:27.060
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-18 17:17:27.089
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-18 17:18:45.074
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-18 17:18:45.100
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-18 17:19:36.566
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-18 17:19:36.597
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-18 17:19:51.350
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-18 17:19:51.379
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-18 17:22:56.523
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-18 17:22:56.549
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-18 17:28:23.176
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-18 17:28:23.209
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-18 17:34:47.313
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-18 17:34:47.341
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-18 17:35:37.189
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-18 17:35:37.216
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-18 17:39:35.815
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-18 17:39:35.843
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-18 17:42:24.912
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-18 17:42:24.938
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-18 17:56:53.214
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-18 17:56:53.241
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-18 18:02:17.774
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-18 18:02:17.801
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-18 18:05:58.825
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-18 18:05:58.852
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-18 18:12:38.354
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-18 18:12:38.382
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-18 18:17:55.776
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-18 18:17:55.802
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.packs.core 4 1 2019-03-18 18:35:43.221
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.packs.core 4 1 2019-03-18 18:35:43.249
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.packs.core 4 1 2019-03-18 18:40:39.052
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.packs.core 4 1 2019-03-18 18:40:39.079
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.packs.core 4 1 2019-03-18 18:42:55.495
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.packs.core 4 1 2019-03-18 18:42:55.524
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.packs.core 4 1 2019-03-18 19:13:28.276
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.packs.core 4 1 2019-03-18 19:13:28.304
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.packs.core 4 1 2019-03-18 19:15:23.300
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.packs.core 4 1 2019-03-18 19:15:23.332
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.packs.core 4 1 2019-03-18 19:17:03.555
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.packs.core 4 1 2019-03-18 19:17:03.584
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.packs.core 4 1 2019-03-18 19:18:43.609
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.packs.core 4 1 2019-03-18 19:18:43.642
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.packs.core 4 1 2019-03-18 19:20:21.788
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.packs.core 4 1 2019-03-18 19:20:21.818
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.packs.core 4 1 2019-03-18 19:21:00.426
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.packs.core 4 1 2019-03-18 19:21:00.456
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.packs.core 4 1 2019-03-18 19:22:14.978
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.packs.core 4 1 2019-03-18 19:22:15.006
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.packs.core 4 1 2019-03-18 19:23:58.275
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.packs.core 4 1 2019-03-18 19:23:58.304
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.packs.core 4 1 2019-03-18 19:24:25.027
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.packs.core 4 1 2019-03-18 19:24:25.055
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.packs.core 4 1 2019-03-18 19:25:53.882
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.packs.core 4 1 2019-03-18 19:25:53.910
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.packs.core 4 1 2019-03-18 19:26:49.558
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.packs.core 4 1 2019-03-18 19:26:49.588
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.packs.core 4 1 2019-03-18 19:27:46.942
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.packs.core 4 1 2019-03-18 19:27:46.970
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.packs.core 4 1 2019-03-18 19:32:37.413
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.packs.core 4 1 2019-03-18 19:32:37.441
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+!SESSION 2019-03-27 13:36:10.263 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.7.0_151
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.cpp.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.cpp.product
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-27 14:03:45.022
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-27 14:03:45.206
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-27 14:04:18.823
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-27 14:04:18.861
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-27 14:05:53.435
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-27 14:05:53.463
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-27 14:07:32.668
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-27 14:07:32.697
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-27 14:09:41.455
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-27 14:09:41.481
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-27 14:12:06.494
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-27 14:12:06.520
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-27 14:34:31.032
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-27 14:34:31.057
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-27 14:40:12.058
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.debug.gdbjtag.openocd 4 1 2019-03-27 14:40:12.085
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.packs.core 4 1 2019-03-27 15:20:49.876
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.packs.core 4 1 2019-03-27 15:20:49.907
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.packs.core 4 1 2019-03-27 15:22:47.197
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.packs.core 4 1 2019-03-27 15:22:47.224
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.packs.core 4 1 2019-03-27 15:26:44.692
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.packs.core 4 1 2019-03-27 15:26:44.719
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.packs.core 4 1 2019-03-27 15:27:17.424
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.packs.core 4 1 2019-03-27 15:27:17.451
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.packs.core 4 1 2019-03-27 15:28:44.743
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.packs.core 4 1 2019-03-27 15:28:44.778
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.packs.core 4 1 2019-03-27 15:49:08.637
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.packs.core 4 1 2019-03-27 15:49:08.665
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.packs.core 4 1 2019-03-27 16:04:20.738
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.packs.core 4 1 2019-03-27 16:04:20.770
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.packs.core 4 1 2019-03-27 16:16:19.482
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.packs.core 4 1 2019-03-27 16:16:19.513
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.debug.core 4 1 2019-03-27 16:25:12.020
+!MESSAGE There are no peripheral descriptions available, assign a device to the project.
+
+!ENTRY ilg.gnuarmeclipse.packs.core 4 1 2019-03-27 16:26:07.989
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.packs.core 4 1 2019-03-27 16:26:08.017
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.packs.core 4 1 2019-03-27 16:32:05.063
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.packs.core 4 1 2019-03-27 16:32:05.093
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.packs.core 4 1 2019-03-27 16:37:32.027
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.packs.core 4 1 2019-03-27 16:37:32.059
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.packs.core 4 1 2019-03-27 16:49:43.842
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.packs.core 4 1 2019-03-27 16:49:43.876
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.packs.core 4 1 2019-03-27 17:44:24.828
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.packs.core 4 1 2019-03-27 17:44:24.856
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.packs.core 4 1 2019-03-27 19:14:48.893
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.packs.core 4 1 2019-03-27 19:14:48.920
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.packs.core 4 1 2019-03-27 19:16:59.972
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.packs.core 4 1 2019-03-27 19:17:00.001
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+
+!ENTRY ilg.gnuarmeclipse.packs.core 4 1 2019-03-27 19:28:23.116
+!MESSAGE /opt/gnuarmeclipse/openocd/0.9.0-201505190955/bin/openocd -c gdb_port 3333 -c telnet_port 4444 -f interface/jlink.cfg -f target/stm32f1x.cfg -c echo "Started by GNU ARM Eclipse"
+
+!ENTRY ilg.gnuarmeclipse.packs.core 4 1 2019-03-27 19:28:23.143
+!MESSAGE arm-none-eabi-gdb --interpreter=mi2 --nx
+!SESSION 2019-07-04 09:47:18.047 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.7.0_151
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.cpp.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.cpp.product
+
+!ENTRY org.eclipse.jface 2 0 2019-07-04 10:46:51.070
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2019-07-04 10:46:51.070
+!MESSAGE A conflict occurred for ALT+ARROW_LEFT:
+Binding(ALT+ARROW_LEFT,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.hover.backwardMacroExpansion,Back,
+		Steps backward in macro expansions,
+		Category(org.eclipse.cdt.ui.category.source,Source,Source commands,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@1d6b7fa8,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.macroExpansionHoverScope,,,system)
+Binding(ALT+ARROW_LEFT,
+	ParameterizedCommand(Command(org.eclipse.ui.navigate.backwardHistory,Backward History,
+		Move backward in the editor navigation history,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@7c89fdae,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2019-07-04 10:46:51.070
+!MESSAGE A conflict occurred for ALT+ARROW_RIGHT:
+Binding(ALT+ARROW_RIGHT,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.hover.forwardMacroExpansion,Forward,
+		Steps forward in macro expansions,
+		Category(org.eclipse.cdt.ui.category.source,Source,Source commands,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@476dea62,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.macroExpansionHoverScope,,,system)
+Binding(ALT+ARROW_RIGHT,
+	ParameterizedCommand(Command(org.eclipse.ui.navigate.forwardHistory,Forward History,
+		Move forward in the editor navigation history,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@136ec91,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2019-07-04 10:46:51.070
+!MESSAGE A conflict occurred for F3:
+Binding(F3,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.edit.opendecl,Open Declaration,
+		Opens an editor on the selected element's declaration(s),
+		Category(org.eclipse.cdt.ui.category.source,Source,Source commands,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@3ce52436,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.cEditorScope,,,system)
+Binding(F3,
+	ParameterizedCommand(Command(org.eclipse.cdt.ui.edit.opendecl,Open Declaration,
+		Opens an editor on the selected element's declaration(s),
+		Category(org.eclipse.cdt.ui.category.source,Source,Source commands,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@3ce52436,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.cdt.ui.macroExpansionHoverScope,,,system)
